@@ -1,0 +1,13 @@
+# Arduino build outputs
+*.hex
+*.elf
+*.bin
+
+# Microsoft Excel temporary files
+~$*.xlsx
+~$*.xlsm
+*.tmp
+
+# Operating System files
+Thumbs.db
+.DS_Store
