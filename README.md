@@ -48,5 +48,5 @@ Static discharge and unintended gate floating are suppressed via $10\,\text{k}\O
             ▼
 [ Real-Time Data Acquisition & Statistical Analysis in Excel ]
 
-## Future Improvements & Industrial Scaling".
+## Future Improvements & Industrial Scaling
 While the current iteration relies on software polling and millis() for rapid prototyping, a production-grade V2 would utilize Hardware Timers and Pin Change Interrupts (PCINT) to ensure true deterministic measurement and eliminate software execution jitter.
